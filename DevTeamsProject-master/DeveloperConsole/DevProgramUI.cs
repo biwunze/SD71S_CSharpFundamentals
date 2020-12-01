@@ -12,7 +12,6 @@ namespace DeveloperConsole
         private DeveloperRepo _devRepository = new DeveloperRepo();
         private DevTeamRepo _devTeamRepository = new DevTeamRepo();  //15 min of Create
 
-
         // Method that Starts the UI part of App
         public void RunDevApp()
         {
