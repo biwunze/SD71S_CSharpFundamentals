@@ -1,0 +1,6 @@
+C:\ElevenFiftyPjt\DotNetProjects\CSharpPrework\05_strings\bin\Debug\05_strings.exe.config
+C:\ElevenFiftyPjt\DotNetProjects\CSharpPrework\05_strings\bin\Debug\05_strings.exe
+C:\ElevenFiftyPjt\DotNetProjects\CSharpPrework\05_strings\bin\Debug\05_strings.pdb
+C:\ElevenFiftyPjt\DotNetProjects\CSharpPrework\05_strings\obj\Debug\05_strings.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyPjt\DotNetProjects\CSharpPrework\05_strings\obj\Debug\05_strings.exe
+C:\ElevenFiftyPjt\DotNetProjects\CSharpPrework\05_strings\obj\Debug\05_strings.pdb

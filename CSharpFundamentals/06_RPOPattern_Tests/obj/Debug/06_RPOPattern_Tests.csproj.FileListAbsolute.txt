@@ -1,0 +1,16 @@
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\06_RPOPattern_Tests.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\06_RPOPattern_Tests.pdb
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\06_REPOPattern_REPO.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\06_REPOPattern_REPO.pdb
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\obj\Debug\06_RPOPattern_Tests.csprojAssemblyReference.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\obj\Debug\06_RPOPattern_Tests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\obj\Debug\06_RPOPattern_Tests.csproj.CopyComplete
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\obj\Debug\06_RPOPattern_Tests.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_RPOPattern_Tests\obj\Debug\06_RPOPattern_Tests.pdb

@@ -1,0 +1,197 @@
+.sceneContainer {
+    height: 350px;
+    position: relative;
+
+}
+
+.mainFace {
+    height: 300px;
+    width: 221px;
+    background-color: wheat;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+    z-index: 1;
+}
+.hairMid {
+    height: 119px;
+    width: 217px;
+    background-color: orange;
+    margin: 0;
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    border-radius: 50%;
+}
+
+.hairL {
+    height: 146px;
+    width: 217px;
+    background-color: orange;
+    margin: 0;
+    position: absolute;
+    top: 46%;
+    left: 38%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 100%;
+}
+
+.hairR {
+    height: 146px;
+    width: 217px;
+    background-color: orange;
+    margin: 0;
+    position: absolute;
+    top: 46%;
+    left: 62%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 100%;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 50%;
+}
+
+.theMouth {
+    border-radius: 5px 5px 35px 35px;
+    background: orchid;
+    top: 113.5%;
+    left: 55%; 
+    padding: 20px; 
+    width: 48px;
+    height: 24px;
+    position: absolute;
+    z-index: 5;
+}
+
+.theJaw {
+    height: 150px;
+    width: 110px;
+    background-color: wheat;
+    margin: 0;
+    position: absolute;
+    top: 99%;
+    left: 54%;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.theLips {
+    height: 100px;
+    width: 130px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 106%;
+    left: 53.5%;
+    z-index: 4;
+}
+
+.theMarkR {
+    width: 54px;
+    height: 155px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 0 0 red;
+    position: absolute;
+    top: 69%;
+    left: 59%; 
+    z-index: 3;
+}
+
+.theMarkL {
+    width: 54px;
+    height: 155px;
+    border-radius: 50%;
+    box-shadow: -5px 2px 0px 3px red;
+    position: absolute;
+    top: 71%;
+    left: 53.6%; 
+    z-index: 3;
+    
+}
+
+.eyeR {
+    height: 25px;
+    width: 50px;
+    margin: 0;
+    position: absolute;
+    top: 77%;
+    left: 52%;
+    border-radius: 50%;
+    background-color: black;
+    z-index: 6;
+}
+
+.eyeL {
+    height: 25px;
+    width: 50px;
+    margin: 0;
+    position: absolute;
+    top: 77%;
+    left: 61%;
+    border-radius: 50%;
+    background-color: black;
+    z-index: 6;
+}
+
+#inEyeR {
+    height: 26px;
+    width: 10px;
+    margin: 0;
+    position: absolute;
+    top: 2%;
+    left: 38%;
+    border-radius: 50%;
+    background-color: green;
+    z-index: 7;
+}
+
+#inEyeL {
+    height: 26px;
+    width: 10px;
+    margin: 0;
+    position: absolute;
+    top: 2%;
+    left: 47%;
+    border-radius: 50%;
+    background-color: green;
+    z-index: 7;
+}
+
+#tooth1 {
+    top: 0;
+    left: 55%; 
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 50px solid whitesmoke;
+    z-index: 6;
+}
+#tooth2 {
+    top: 0;
+    left: 16%; 
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 50px solid whitesmoke;
+    z-index: 6;
+    z-index: 6;
+}
+
+.theNose {
+    height: 50px;
+    width: 50px;
+    margin: 0;
+    position: absolute;
+    top: 86%;
+    left: 56.5%;
+    border-radius: 50%;
+    background-color: red;
+    z-index: 5;
+}

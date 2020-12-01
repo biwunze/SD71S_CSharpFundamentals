@@ -1,0 +1,6 @@
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_REPO\bin\Debug\06_REPOPattern_REPO.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_REPO\bin\Debug\06_REPOPattern_REPO.pdb
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_REPO\obj\Debug\06_REPOPattern_REPO.csprojAssemblyReference.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_REPO\obj\Debug\06_REPOPattern_REPO.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_REPO\obj\Debug\06_REPOPattern_REPO.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_REPO\obj\Debug\06_REPOPattern_REPO.pdb

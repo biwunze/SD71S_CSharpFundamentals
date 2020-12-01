@@ -1,0 +1,10 @@
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\bin\Debug\06_REPOPattern_Console.exe.config
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\bin\Debug\06_REPOPattern_Console.exe
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\bin\Debug\06_REPOPattern_Console.pdb
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\obj\Debug\06_REPOPattern_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\obj\Debug\06_REPOPattern_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\obj\Debug\06_REPOPattern_Console.exe
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\obj\Debug\06_REPOPattern_Console.pdb
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\bin\Debug\06_REPOPattern_REPO.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\bin\Debug\06_REPOPattern_REPO.pdb
+C:\ElevenFiftyPjt\CSharpFundamentals\06_REPOPattern_Console\obj\Debug\06_REPOPattern_Console.csproj.CopyComplete

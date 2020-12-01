@@ -1,0 +1,14 @@
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\03_Loops.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\03_Loops.pdb
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\obj\Debug\03_Loops.csprojAssemblyReference.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\obj\Debug\03_Loops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\obj\Debug\03_Loops.csproj.CopyComplete
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\obj\Debug\03_Loops.dll
+C:\ElevenFiftyPjt\CSharpFundamentals\03_Loops\obj\Debug\03_Loops.pdb
